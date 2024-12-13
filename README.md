@@ -138,7 +138,7 @@ python train.py
 ---
 
 ## Contributors
-We are a group of dedicated students working collaboratively on the Plant Leaf diseases Prediction project. Our diverse backgrounds and shared interest in machine learning have brought us together to develop this model. Each member has contributed significantly to various aspects of the project, from data preprocessing and feature engineering to model training and user interface design. We are committed to providing a valuable tool for sellers and buyers in the used car market, helping them make informed decisions about the Plant leaf Diseases. Below is a list of our group members:
+We are a group of dedicated students working collaboratively on the Plant Leaf diseases Prediction project. Our diverse backgrounds and shared interest in machine learning have brought us together to develop this model. Each member has contributed significantly to various aspects of the project, from data preprocessing and feature engineering to model training and user interface design. We are committed to providing a valuable tool for sellers and buyers in the used car market, helping them make informed decisions about the Plant leaf Diseases. Here is a list of our group members:
 
 | S/N | Full Name | Student ID |
 | --- | --------- | ---------- |
